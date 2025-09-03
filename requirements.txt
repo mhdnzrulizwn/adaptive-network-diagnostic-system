@@ -1,0 +1,10 @@
+psutil
+numpy
+pandas
+scikit-learn
+joblib
+tensorflow
+flask
+scapy
+requests
+netifaces
